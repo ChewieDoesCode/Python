@@ -9,6 +9,7 @@ def main():
                 a = 3*a +1
             c += 1#counter
             l += [a]
+            print("X")
 
         return l , c
     print(n31(43))
